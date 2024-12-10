@@ -2,7 +2,10 @@
 *.afa 
 
 # MrBayes Output
-*.nex.*
+*.nex*
+
+# Image
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
